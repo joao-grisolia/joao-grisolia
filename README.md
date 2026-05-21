@@ -44,7 +44,7 @@
 
 <br>
 
-<img src="https://skillicons.dev/icons?i=python,java,html,css,react,mysql,github,vscode" />
+<img src="https://skillicons.dev/icons?i=python,java,typescript,html,css,react,mysql,github,vscode" />
 
 </div>
 
@@ -52,11 +52,13 @@
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Python-6A0DAD?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/React-4B0082?style=for-the-badge&logo=react&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-2E0854?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/API%20Integration-9400D3?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Workflow%20Nodes-5A189A?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Python-4B0082?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-2E0854?style=for-the-badge&logo=javascript&logoColor=white"/>
+<img src="https://img.shields.io/badge/TypeScript-4B0082?style=for-the-badge&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-2E0854?style=for-the-badge&logo=react&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4B0082?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/API%20Integration-2E0854?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Workflow%20Nodes-4B0082?style=for-the-badge"/>
 
 </div>
 

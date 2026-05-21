@@ -13,7 +13,7 @@
 
 <div align="center">
 
-# 🟣 About Me
+# 🟣 Sobre Mim
 
 </div>
 
@@ -21,10 +21,10 @@
 
 <br>
 
-🎓 Software Engineering student at PUC Campinas  
-💻 Passionate about programming, automation and technology  
-🚀 Focused on backend development, APIs and modern web applications  
-🌑 Constantly improving through real-world projects and new technologies
+🎓 Estudante de Engenharia de Software na PUC-Campinas <br> 
+💻 Apaixonado por programação, automação e tecnologia <br> 
+🚀 Focado em desenvolvimento backend, APIs e aplicações web modernos <br> 
+🌑 Constantemente evoluindo através de projetos na vida real e novas tecnologias <br> 
 
 </div>
 
@@ -101,7 +101,7 @@
 
 <div align="center">
 
-# 🟣 Currently Learning
+# 🟣 Atualmente aprendendo
 
 <br>
 
@@ -109,11 +109,11 @@
 
 <div align="center">
 
-⚛️ Advanced Python <br>
-🔌 API integration and automation  
-🧠 Data structures and logic  
-⚙️ Workflow creation using nodes  
-🗄️ Database modeling with MySQL
+⚛️ Desenvolvimento Python avançado <br>
+🔌 Integrações de API e automação <br>
+🧠 Estrutura de dados e lógica <br>
+⚙️ Criação de workflows usando nodes <br>
+🗄️ Modelação de banco de dados pelo MySQL
 
 </div>
 
@@ -122,7 +122,7 @@
 
 <div align="center">
 
-# 🟣 Featured Projects
+# 🟣 Projetos em Destaque
 
 </div>
 
@@ -135,20 +135,20 @@
 <tr>
 <td width="50%">
 
-<h3 align="center">🟣 Website Development</h3>
+<h3 align="center">🟣 Desenvolvimento Web</h3>
 
 <p align="center">
-Creation of responsive websites using HTML, CSS and React.
+Criação de websites responsivos usando HTML, CSS e React
 </p>
 
 </td>
 
 <td width="50%">
 
-<h3 align="center">🔌 API Integrations</h3>
+<h3 align="center">🔌 Integrações de API</h3>
 
 <p align="center">
-Projects focused on API integration, backend communication and data automation.
+Projetos focados em integrações de API, Comunicação com Backend e Automação de dados
 </p>
 
 </td>

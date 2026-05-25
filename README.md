@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:1A001F,50:4B0082,100:6A0DAD&text=Welcome%20To%20My%20Github!&fontColor=B3B1C4&fontSize=60&animation=fadeIn&fontAlignY=38&desc=Follow%20my%20journey%20as%20a%20programmer%20and%20student&descAlignY=58"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:1A001F,50:4B0082,100:6A0DAD&text=Welcome!&fontColor=B3B1C4&fontSize=60&animation=fadeIn&fontAlignY=38&desc=Follow%20my%20journey%20as%20a%20programmer%20and%20student&descAlignY=58"/>
 
 
 <img src="https://readme-typing-svg.herokuapp.com/?color=BA55D3&size=32&center=true&vCenter=true&width=1000&lines=Welcome+to+my+GitHub!;Software+Engineering+Student;Python+Developer;"/>
@@ -68,25 +68,9 @@
 
 <div align="center">
 
-# 🟣 GitHub Stats
-
-</div>
-
 <br>
 
-<div align="center">
-
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=joao-grisolia&theme=midnight-purple"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<br>
-
-# 🟣 Contribution Activity
+# 🟣 Quadro de Contribuições
 
 <br>
 <br>
